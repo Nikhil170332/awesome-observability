@@ -470,7 +470,7 @@ Just provide your read-only credentials and start getting insights in minutes.
 - https://openapm.io/landscape
 - https://github.com/crazy-canux/awesome-monitoring
 - https://github.com/Enapiuz/awesome-monitoring
-- http://www.devopsbookmarks.com/
+- https://www.devopsbookmarks.org/
 - https://speakerdeck.com/adriancole/observability-3-ways-logging-metrics-and-tracing
 - https://landscape.cncf.io/
 - https://www.influxdata.com/products/
